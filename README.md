@@ -1,1 +1,1 @@
-![faculty photo]('media_images_Output Image_0_7490b3613bf8da02af94.png')
+![faculty photo](https://github.com/Rohansharma2358/Distance-classification/blob/main/media_images_Output%20Image_0_7490b3613bf8da02af94.png)
