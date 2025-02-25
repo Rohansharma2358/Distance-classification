@@ -11,6 +11,6 @@ jobs:
                 python-version: '3.11'  # Correct indentation
             - name: Install dependencies
               run: |
-                pip install numpy pandas scikit-learn
+                pip install numpy pandas scikit-learn opencv-python wandb matplotlib scipy
             - name: Run test script
-              run: python test_script.py
+              run: python Rohan_Lab5.ipynb
