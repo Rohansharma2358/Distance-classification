@@ -1,0 +1,1 @@
+![faculty photo]('media_images_Output Image_0_7490b3613bf8da02af94.png')
