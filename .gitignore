@@ -19,6 +19,7 @@ Thumbs.db
 *.log
 *.tmp
 *.swp
+wandb
 
 # Ignore environment files
 .env
